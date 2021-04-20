@@ -1,0 +1,59 @@
+#body_background_addon {
+  text-align: center;
+  background-color:#333333;
+  margin: 0;
+  padding: 8px;
+}
+
+#play_button_background_addon {
+  transition-duration: 0.4s;
+  font-size: 20px;
+  padding: 10px 25px;
+  border-radius: 10%;
+  background-color: #525252;
+  color: #1c1c1c;
+  border: 1px solid grey;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+      
+#play_button_background_addon:hover {
+  background-color: white;
+  opacity: 0.5;
+}
+
+#soundName_background_addon {
+  color: #8c8c8c;
+  letter-spacing: 1px;
+  font-size: 12px;
+}
+
+#back_background_addon {
+  margin-right: 5px;
+  border-radius: 10%;
+  background-color: #525252;
+  border: 1px solid grey;
+  transition-duration: 0.4s;
+  font-size: 13px;
+  color: white;
+}
+
+#back_background_addon:hover {
+  background-color: white;
+  opacity: 0.5;
+  color: black;
+}
+
+#forward_background_addon {
+  border-radius: 10%;
+  background-color: #525252;
+  border: 1px solid grey;
+  transition-duration: 0.4s;
+  font-size: 13px;
+  color: white;
+}
+
+#forward_background_addon:hover {
+  background-color: white;
+  opacity: 0.5;
+  color: black;
+}
